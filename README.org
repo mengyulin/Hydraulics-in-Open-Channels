@@ -1,0 +1,20 @@
+#+title: 渠道水力學 (Hydraulics in Open Channels)
+
+* 說明
+此網頁提供「渠道水力學」課程之相關程式、範例、練習等教學講義。
+
+* Chapter 5: Flow Resistance-Nonuniform Flow Computations
+** Direct Step Method - Distance Calculated from Depth
+*** Example 1
+**** 題目
+如圖 \ref{fig:5-1}，一個梯形橫截面的水道，底寬 20 英尺、邊坡為 \(1\frac{1}{2}\mathrm{H}:1\mathrm{V}\)，坡度為 0.001，輸送 1,000 立方英尺每秒的流量。此水道終止於自由溢流，需要探索溢流的 ``洩降'' 以及由此增加的流速。因此，需要計算並繪製溢流上游的水面線剖面，該區域的流速至少比等速流增加了 10\%。曼寧係數 \(n = 0.025\)。
+
+#+CAPTION: Figure caption.
+#+NAME: fig:5-1
+[[./Chap_5/figs/fig_5-1.png]]
+
+**** 程式碼與試算表
+過程請參見課程講義。
+
+- Python 程式碼: [[./Chap_5/Exe1_DirectStepMethod.ipynb][Exe1_DirectStepMethod.ipynb]]
+- Excel 試算表: [[./Chap_5/Ex1_DirectMethodExam.xlsx][Ex1_DirectMethodExam.xlsx]]
