@@ -19,7 +19,6 @@
 - Python 程式碼: [[./Chap_5/Exe1_DirectStepMethod.ipynb][Exe1_DirectStepMethod.ipynb]]
 - Excel 試算表: [[./Chap_5/Ex1_DirectMethodExam.xlsx][Ex1_DirectMethodExam.xlsx]]
 
-
 ** Direct Integration Method
 *** 講義例題 2
 **** 題目
@@ -31,3 +30,8 @@
 過程請參見課程講義。
 
 - Excel 試算表: [[./Chap_5/Exe2-1.xlsx][Exe2-1.xlsx]]
+
+*** V. T. Chow 之分析
+**** Python 範例
+
+- Python 程式碼: [[./Chap_5/DirectInt.ipynb][DirectInt.ipynb]]
