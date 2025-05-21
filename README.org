@@ -32,6 +32,6 @@
 - Excel 試算表: [[./Chap_5/Exe2-1.xlsx][Exe2-1.xlsx]]
 
 *** V. T. Chow 之分析
-**** Python 範例
+以矩形渠道為例，詳見 Python 範例。
 
 - Python 程式碼: [[./Chap_5/DirectInt.ipynb][DirectInt.ipynb]]
