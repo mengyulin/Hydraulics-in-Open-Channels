@@ -35,3 +35,8 @@
 以矩形渠道為例，詳見 Python 範例。
 
 - Python 程式碼: [[./Chap_5/DirectInt.ipynb][DirectInt.ipynb]]
+
+** Standard Step Method
+*** 範例：緩坡具閘門之渠道
+
+- Python 程式碼: [[./Chap_5/GVF_gate_demo.ipynb][GVF_gate_demo.ipynb]]
