@@ -44,4 +44,4 @@
 * Chapter 6: Unsteady Flows
 ** Method of Characteristics
 *** 範例：閘門突啟之潰壩問題
-- [[./Chap_6/Stoker_solution]]
+- [[./Chap_6/Stoker_solution][Stoker_solution]]
