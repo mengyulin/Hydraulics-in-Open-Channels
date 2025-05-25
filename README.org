@@ -40,3 +40,8 @@
 *** 範例：緩坡具閘門之渠道
 
 - Python 程式碼: [[./Chap_5/GVF_gate_demo.ipynb][GVF_gate_demo.ipynb]]
+
+* Chapter 6: Unsteady Flows
+** Method of Characteristics
+*** 範例：閘門突啟之潰壩問題
+- [[./Chap_6/Stoker_solution]]
