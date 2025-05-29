@@ -3,6 +3,24 @@
 * 說明
 此網頁提供「渠道水力學」課程之相關程式、範例、練習等教學講義。
 
+** 個人電腦 Python 環境設置
+
+*** 說明
+
+建議於個人電腦中設置好完整的 Python 環境，以執行課程範例：
+
+1. 安裝 [[https://www.anaconda.com/download][Anaconda]], 即建立一般工程與科學運算需要的 Python 環境與函式庫。
+2. 透過 Anaconda-Navigator 開啟 Jupyter Notebook 或 JupyterLab, 可編輯與執行 Jupyter Notebook (.ipynb 檔) 的程式碼。
+3. Python 的純程式碼 (.py 檔) 可在命令列中執行，但安裝好用的 IDE (整合開發環境, Integrated development environment) 還是需要的。
+4. 建議使用 [[https://code.visualstudio.com/][VS Code]] 作為 IDE, 可以編譯純程式碼，亦可使用 Jupyter Notebook 環境。
+
+*** 教學連結
+
+- [[https://simplelearn.tw/anaconda-3-intro-and-installation-guide][Anaconda 安裝與教學]]
+- [[https://simplelearn.tw/jupyter-notebook-intro-and-tutorial/][Jupyter Notebook 安裝與教學]] (註：僅需參考教學即可，Anaconda 的安裝已包含 Jupyter Notebook)
+- [[https://learn.microsoft.com/zh-tw/shows/visual-studio-code/getting-started-with-jupyter-notebooks-in-vs-code][VS Code 中的 Jupyter Notebook 用戶入門]]
+
+
 * Chapter 5: Flow Resistance-Nonuniform Flow Computations
 ** Direct Step Method - Distance Calculated from Depth
 *** 講義例題 1
