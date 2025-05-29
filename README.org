@@ -23,12 +23,12 @@
 *** 範例程式碼下載方法
 
 **** 下載全部專案
-在主頁面，點選 `Code` -> `Download Zip`，可將完整的檔案以壓縮檔下載至電腦硬碟。
+在主頁面，點選 ~Code~ -> ~Download Zip~, 可將完整的檔案以壓縮檔下載至電腦硬碟。
 
-**** 下載單一 notebook
-先進入 notebook 檔案的頁面，點選右上角的 `Download raw file` 即可下載。
+**** 下載單一程式碼 (含 ipynb 與 py 檔)
+先進入檔案的頁面，點選右上角的 ~Download raw file~ 即可下載。
 
-注意：若下載時副檔名被修改，請回復為 `.ipynb`。
+注意：若下載時副檔名被修改，請回復為 ~.ipynb~ 或 ~.py~.
 
 
 * Chapter 5: Flow Resistance-Nonuniform Flow Computations
