@@ -65,6 +65,10 @@
 - Python 程式碼: [[./Chap_5/DirectInt.ipynb][DirectInt.ipynb]]
 
 ** Standard Step Method
+*** 講義例題 1
+
+- Python 程式碼:  [[./Chap_5/StdStepMethod.ipynb][StdStepMethod.ipynb]]
+
 *** 範例：緩坡具閘門之渠道
 
 - Python 程式碼: [[./Chap_5/GVF_gate_demo.ipynb][GVF_gate_demo.ipynb]]
