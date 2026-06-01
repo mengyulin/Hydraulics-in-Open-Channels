@@ -54,7 +54,6 @@ Google [[https://colab.research.google.com/?hl=zh-tw][Colab]] 可以讓使用者
 
 - 見: [[./Chap_5/Ex1_DirectMethodExam.xlsx][Ex1_DirectMethodExam.xlsx]]
 
-
 ** Direct Integration Method
 *** 講義例題 2
 **** 題目
@@ -70,16 +69,17 @@ Google [[https://colab.research.google.com/?hl=zh-tw][Colab]] 可以讓使用者
 *** V. T. Chow 之分析
 以矩形渠道為例，詳見 Python 範例。
 
-- Python 程式碼: [[./Chap_5/DirectInt.ipynb][DirectInt.ipynb]]
+- Python 程式碼 (使用 Colab): [[https://colab.research.google.com/github/mengyulin/Hydraulics-in-Open-Channels/blob/main/Chap_5/DirectInt.ipynb][https://colab.research.google.com/assets/colab-badge.svg]]
 
 ** Standard Step Method
 *** 講義例題 1
 
-- Python 程式碼:  [[./Chap_5/StdStepMethod.ipynb][StdStepMethod.ipynb]]
+- Python 程式碼 (使用 Colab): [[https://colab.research.google.com/github/mengyulin/Hydraulics-in-Open-Channels/blob/main/Chap_5/StdStepMethod.ipynb][https://colab.research.google.com/assets/colab-badge.svg]]
+
 
 *** 範例：緩坡具閘門之渠道
 
-- Python 程式碼: [[./Chap_5/GVF_gate_demo.ipynb][GVF_gate_demo.ipynb]]
+- Python 程式碼 (使用 Colab):  [[https://colab.research.google.com/github/mengyulin/Hydraulics-in-Open-Channels/blob/main/Chap_5/GVF_gate_demo.ipynb][https://colab.research.google.com/assets/colab-badge.svg]]
 
 * Chapter 6: Unsteady Flows
 ** Method of Characteristics
