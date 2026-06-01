@@ -30,6 +30,9 @@
 
 注意：若下載時副檔名被修改，請回復為 ~.ipynb~ 或 ~.py~.
 
+*** 使用 Google Colab
+
+Google [[https://colab.research.google.com/?hl=zh-tw][Colab]] 可以讓使用者在 Google 的雲端編輯並執行 Python 程式與 Jupyter Notebook 環境。使用者需要有 Google (或 Gmail) 帳戶。
 
 * Chapter 5: Flow Resistance-Nonuniform Flow Computations
 ** Direct Step Method - Distance Calculated from Depth
