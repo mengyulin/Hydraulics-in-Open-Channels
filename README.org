@@ -48,6 +48,7 @@ Google [[https://colab.research.google.com/?hl=zh-tw][Colab]] 可以讓使用者
 
 過程請參見課程講義。
 - Python 程式碼 (使用 Colab): [[https://colab.research.google.com/github/mengyulin/Hydraulics-in-Open-Channels/blob/main/Chap_5/Exe1_DirectStepMethod.ipynb][https://colab.research.google.com/assets/colab-badge.svg]]
+- Python 程式碼: [[./Chap_5/Exe1_DirectStepMethod.ipynb][Exe1_DirectStepMethod.ipynb]]
 - Python 程式碼 (pdf 格式): [[./Chap_5/Exe1_DirectStepMethod.pdf][Exe1_DirectStepMethod.pdf]]
 
 **** Excel 試算表
